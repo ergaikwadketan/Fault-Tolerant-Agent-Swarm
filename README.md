@@ -85,7 +85,7 @@ You need a Google Cloud API Key (for Gemini) and a SerpAPI Key (for Search).
 
 ### 2. Clone the Repo
 ```bash
-git clone [https://github.com/YourUsername/Fault-Tolerant-Agent-Swarm.git](https://github.com/YourUsername/Fault-Tolerant-Agent-Swarm.git)
+git clone [https://github.com/ergaikwadketan/Fault-Tolerant-Agent-Swarm.git](https://github.com/ergaikwadketan/Fault-Tolerant-Agent-Swarm.git)
 cd Fault-Tolerant-Agent-Swarm
 ```
 ### 3. Install Dependencies
